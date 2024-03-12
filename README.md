@@ -1,6 +1,4 @@
-
-### Docker commands - :)
-
+Docker commands - :)
 1.docker run (whatever you want to run)
 2.port mapping command - docker run -p 27017:27017 mongo
 3.checking status - docker ps
